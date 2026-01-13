@@ -8,8 +8,8 @@ void printNameQ_Z();
 
 int main()
 {
-    cout<<"Course Roster: "<<endl;
-  
+    cout << "Course Roster: " << endl;
+
     printNameA_H();
     printNameI_P();
     printNameQ_Z();
@@ -19,15 +19,15 @@ int main()
 //--
 void printNameA_H()
 {
-    cout<<"None"<<endl;
+    cout << "Somi Contreras" << endl;
 }
 //--
 void printNameI_P()
 {
-    cout<<"None"<<endl;
+    cout << "None" << endl;
 }
 //--
 void printNameQ_Z()
 {
-    cout<<"None"<<endl;
+    cout << "None" << endl;
 }
