@@ -19,7 +19,7 @@ int main()
 //--
 void printNameA_H()
 {
-    cout<<"None"<<endl;
+    cout<<"Gustavo Arroyo"<<endl;
 }
 //--
 void printNameI_P()
