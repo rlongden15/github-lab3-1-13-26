@@ -20,8 +20,8 @@ int main()
 void printNameA_H()
 {
     cout<<"Gustavo Arroyo"<<endl;
-    cout<<"Jackson Bossart"<<endl;
     cout<<"Luke Bloomer"<<endl;
+    cout<<"Jackson Bossart"<<endl;
     cout << " Somi Contreras " << endl;
     cout<<"Timothy Fendrick"<<endl;
     cout<<"Ryan Heffelman"<<endl;
@@ -30,7 +30,9 @@ void printNameA_H()
 void printNameI_P()
 {
    cout<<"Alan Kwak"<<endl;
+   cout<<"Ty liu"<<endl;
    cout<<"Ro Longden"<<endl;
+   cout<<"Will Mahoney"<<endl;
    cout<<"Jack Meyer"<<endl;
    cout<<"Joe Monnig"<<endl;
    cout<<"Zack Noland"<<endl;
