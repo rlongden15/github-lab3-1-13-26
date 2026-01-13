@@ -24,7 +24,12 @@ void printNameA_H()
 //--
 void printNameI_P()
 {
-    cout<<"Zack Noland"<<endl;
+   cout<<"Alan Kwak"<<endl;
+   cout<<"Ro Longden"<<endl;
+   cout<<"Joe Monnig"<<endl;
+   cout<<"Zack Noland"<<endl;
+   cout<<"Alexander Olivo"<<endl;
+
 }
 //--
 void printNameQ_Z()
