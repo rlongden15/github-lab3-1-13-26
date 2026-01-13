@@ -19,23 +19,25 @@ int main()
 //--
 void printNameA_H()
 {
+    cout<<"Gustavo Arroyo"<<endl;
+    cout<<"Jackson Bossart"<<endl;
     cout<<"Luke Bloomer"<<endl;
     cout << " Somi Contreras " << endl;
+    cout<<"Timothy Fendrick"<<endl;
     cout<<"Ryan Heffelman"<<endl;
 }
 //--
 void printNameI_P()
 {
-    cout<<"Alan Kwak"<<endl;
-    cout<<"Tyler Liu"<<endl;   
-    cout<<"Ro Longden"<<endl;
-    cout<<"Buddy Mahoney"<<endl;
-    cout<<"Joe Monnig"<<endl;
-    cout<<"Zack Noland"<<endl;
-    cout<<"Alexander Olivo"<<endl;
+   cout<<"Alan Kwak"<<endl;
+   cout<<"Ro Longden"<<endl;
+   cout<<"Jack Meyer"<<endl;
+   cout<<"Joe Monnig"<<endl;
+   cout<<"Zack Noland"<<endl;
+   cout<<"Alexander Olivo"<<endl;
 }
 //--
 void printNameQ_Z()
 {
-    cout << "None" << endl;
+    cout<<"Rey Trejo"<<endl;
 }
