@@ -19,15 +19,17 @@ int main()
 //--
 void printNameA_H()
 {
-    cout<<"None"<<endl;
+    cout<<"Gustavo Arroyo"<<endl;
+    cout<<"Jackson Bossart"<<endl;
+      cout<<"Timothy Fendrick"<<endl;
 }
 //--
 void printNameI_P()
 {
-    cout<<"None"<<endl;
+    cout<<"Jack Meyer"<<endl;
 }
 //--
 void printNameQ_Z()
 {
-    cout<<"Timothy Fendrick"<<endl;
+    cout<<"Rey Trejo"<<endl;
 }
